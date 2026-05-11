@@ -1,0 +1,10 @@
+[package]
+name = "find_median_data_stream_lc295"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "find_median_data_stream_lc295"
+path = "exercises.rs"
+
+
+[dependencies]

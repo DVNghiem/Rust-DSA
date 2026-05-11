@@ -1,0 +1,10 @@
+[package]
+name = "design_snake_game_lc353"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "design_snake_game_lc353"
+path = "exercises.rs"
+
+
+[dependencies]

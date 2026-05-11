@@ -1,0 +1,10 @@
+[package]
+name = "candy_lc135"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "candy_lc135"
+path = "exercises.rs"
+
+
+[dependencies]

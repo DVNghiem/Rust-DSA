@@ -1,0 +1,10 @@
+[package]
+name = "wildcard_matching_lc44"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "wildcard_matching_lc44"
+path = "exercises.rs"
+
+
+[dependencies]

@@ -1,0 +1,10 @@
+[package]
+name = "encode_decode_strings"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "encode_decode_strings"
+path = "exercises.rs"
+
+
+[dependencies]

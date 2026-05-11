@@ -1,0 +1,8 @@
+[package]
+name = "two_sum_lc1"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "two_sum_lc1"
+path = "exercises.rs"
+

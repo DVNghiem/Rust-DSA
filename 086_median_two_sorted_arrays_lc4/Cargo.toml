@@ -1,0 +1,10 @@
+[package]
+name = "median_two_sorted_arrays"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "median_two_sorted_arrays"
+path = "exercises.rs"
+
+
+[dependencies]

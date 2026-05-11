@@ -1,0 +1,10 @@
+[package]
+name = "longest_consecutive_sequence"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "longest_consecutive_sequence"
+path = "exercises.rs"
+
+
+[dependencies]

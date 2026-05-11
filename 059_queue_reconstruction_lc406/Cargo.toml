@@ -1,0 +1,10 @@
+[package]
+name = "queue_reconstruction_lc406"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "queue_reconstruction_lc406"
+path = "exercises.rs"
+
+
+[dependencies]

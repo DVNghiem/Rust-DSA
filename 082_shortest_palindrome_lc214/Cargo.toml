@@ -1,0 +1,10 @@
+[package]
+name = "shortest_palindrome"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "shortest_palindrome"
+path = "exercises.rs"
+
+
+[dependencies]

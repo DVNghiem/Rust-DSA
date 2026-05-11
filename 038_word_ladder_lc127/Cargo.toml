@@ -1,0 +1,8 @@
+[package]
+name = "word_ladder"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "word_ladder"
+path = "exercises.rs"

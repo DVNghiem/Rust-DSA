@@ -1,0 +1,8 @@
+[package]
+name = "three_sum_lc15"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "three_sum_lc15"
+path = "exercises.rs"
+

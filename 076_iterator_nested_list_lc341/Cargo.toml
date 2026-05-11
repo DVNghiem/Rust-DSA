@@ -1,0 +1,10 @@
+[package]
+name = "iterator_nested_list"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "iterator_nested_list"
+path = "exercises.rs"
+
+
+[dependencies]

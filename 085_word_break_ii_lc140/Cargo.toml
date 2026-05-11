@@ -1,0 +1,10 @@
+[package]
+name = "word_break_ii"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "word_break_ii"
+path = "exercises.rs"
+
+
+[dependencies]

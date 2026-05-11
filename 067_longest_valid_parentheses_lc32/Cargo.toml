@@ -1,0 +1,10 @@
+[package]
+name = "longest_valid_parentheses_lc32"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "longest_valid_parentheses_lc32"
+path = "exercises.rs"
+
+
+[dependencies]

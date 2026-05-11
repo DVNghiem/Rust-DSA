@@ -1,0 +1,10 @@
+[package]
+name = "merge_intervals"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "merge_intervals"
+path = "exercises.rs"
+
+
+[dependencies]

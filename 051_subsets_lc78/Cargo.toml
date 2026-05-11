@@ -1,0 +1,10 @@
+[package]
+name = "subsets_lc78"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "subsets_lc78"
+path = "exercises.rs"
+
+
+[dependencies]

@@ -1,0 +1,8 @@
+[package]
+name = "product_except_self_lc238"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "product_except_self_lc238"
+path = "exercises.rs"
+

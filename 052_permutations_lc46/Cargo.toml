@@ -1,0 +1,10 @@
+[package]
+name = "permutations_lc46"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "permutations_lc46"
+path = "exercises.rs"
+
+
+[dependencies]

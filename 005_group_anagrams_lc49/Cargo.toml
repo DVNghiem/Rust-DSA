@@ -1,0 +1,8 @@
+[package]
+name = "group_anagrams_lc49"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "group_anagrams_lc49"
+path = "exercises.rs"
+

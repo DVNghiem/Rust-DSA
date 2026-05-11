@@ -1,0 +1,10 @@
+[package]
+name = "decode_ways_ii_lc639"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "decode_ways_ii_lc639"
+path = "exercises.rs"
+
+
+[dependencies]

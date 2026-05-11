@@ -1,0 +1,10 @@
+[package]
+name = "min_path_sum"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "min_path_sum"
+path = "exercises.rs"
+
+
+[dependencies]

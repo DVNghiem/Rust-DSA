@@ -1,0 +1,10 @@
+[package]
+name = "longest_increasing_subseq"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "longest_increasing_subseq"
+path = "exercises.rs"
+
+
+[dependencies]

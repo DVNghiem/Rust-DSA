@@ -1,0 +1,8 @@
+[package]
+name = "valid_parentheses_lc20"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "valid_parentheses_lc20"
+path = "exercises.rs"
+

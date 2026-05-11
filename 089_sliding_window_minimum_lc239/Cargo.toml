@@ -1,0 +1,10 @@
+[package]
+name = "sliding_window_minimum"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "sliding_window_minimum"
+path = "exercises.rs"
+
+
+[dependencies]

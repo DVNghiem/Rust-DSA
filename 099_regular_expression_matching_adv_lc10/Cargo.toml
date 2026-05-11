@@ -1,0 +1,8 @@
+[package]
+name = "regular_expression_matching_adv"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "regular_expression_matching_adv"
+path = "exercises.rs"

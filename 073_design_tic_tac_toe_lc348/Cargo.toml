@@ -1,0 +1,10 @@
+[package]
+name = "design_tic_tac_toe_lc348"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "design_tic_tac_toe_lc348"
+path = "exercises.rs"
+
+
+[dependencies]

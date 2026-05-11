@@ -1,0 +1,10 @@
+[package]
+name = "serialize_deserialize_tree_lc297"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "serialize_deserialize_tree_lc297"
+path = "exercises.rs"
+
+
+[dependencies]

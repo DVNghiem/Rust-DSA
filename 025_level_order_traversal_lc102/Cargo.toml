@@ -1,0 +1,8 @@
+[package]
+name = "level_order_traversal_lc102"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "level_order_traversal_lc102"
+path = "exercises.rs"
+

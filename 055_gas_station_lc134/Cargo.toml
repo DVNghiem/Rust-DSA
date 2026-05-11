@@ -1,0 +1,10 @@
+[package]
+name = "gas_station_lc134"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "gas_station_lc134"
+path = "exercises.rs"
+
+
+[dependencies]

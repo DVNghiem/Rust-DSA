@@ -1,0 +1,10 @@
+[package]
+name = "course_schedule_ii"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "course_schedule_ii"
+path = "exercises.rs"
+
+
+[dependencies]

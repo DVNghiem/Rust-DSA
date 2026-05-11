@@ -1,0 +1,8 @@
+[package]
+name = "top_k_frequent_lc347"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "top_k_frequent_lc347"
+path = "exercises.rs"
+

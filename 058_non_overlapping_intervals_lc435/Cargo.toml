@@ -1,0 +1,10 @@
+[package]
+name = "non_overlapping_intervals_lc435"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "non_overlapping_intervals_lc435"
+path = "exercises.rs"
+
+
+[dependencies]

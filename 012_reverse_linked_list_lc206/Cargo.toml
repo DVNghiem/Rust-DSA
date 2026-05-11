@@ -1,0 +1,8 @@
+[package]
+name = "reverse_linked_list_lc206"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "reverse_linked_list_lc206"
+path = "exercises.rs"
+

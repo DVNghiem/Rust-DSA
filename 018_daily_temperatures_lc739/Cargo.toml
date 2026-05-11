@@ -1,0 +1,8 @@
+[package]
+name = "daily_temperatures_lc739"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "daily_temperatures_lc739"
+path = "exercises.rs"
+

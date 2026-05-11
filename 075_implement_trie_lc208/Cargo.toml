@@ -1,0 +1,10 @@
+[package]
+name = "implement_trie_lc208"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "implement_trie_lc208"
+path = "exercises.rs"
+
+
+[dependencies]

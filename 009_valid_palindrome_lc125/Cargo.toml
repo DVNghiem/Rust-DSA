@@ -1,0 +1,8 @@
+[package]
+name = "valid_palindrome_lc125"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "valid_palindrome_lc125"
+path = "exercises.rs"
+

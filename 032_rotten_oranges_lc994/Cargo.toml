@@ -1,0 +1,10 @@
+[package]
+name = "rotten_oranges"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "rotten_oranges"
+path = "exercises.rs"
+
+
+[dependencies]

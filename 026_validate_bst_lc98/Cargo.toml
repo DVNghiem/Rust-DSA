@@ -1,0 +1,10 @@
+[package]
+name = "validate_bst"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "validate_bst"
+path = "exercises.rs"
+
+[dependencies]

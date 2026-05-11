@@ -1,0 +1,10 @@
+[package]
+name = "min_stack_advanced"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "min_stack_advanced"
+path = "exercises.rs"
+
+
+[dependencies]

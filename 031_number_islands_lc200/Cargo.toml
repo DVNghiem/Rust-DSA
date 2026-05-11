@@ -1,0 +1,10 @@
+[package]
+name = "number_islands"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "number_islands"
+path = "exercises.rs"
+
+
+[dependencies]

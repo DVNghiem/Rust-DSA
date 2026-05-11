@@ -1,0 +1,10 @@
+[package]
+name = "task_scheduler_lc621"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "task_scheduler_lc621"
+path = "exercises.rs"
+
+
+[dependencies]

@@ -1,0 +1,10 @@
+[package]
+name = "sliding_window_max_lc239"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "sliding_window_max_lc239"
+path = "exercises.rs"
+
+
+[dependencies]

@@ -1,0 +1,8 @@
+[package]
+name = "clone_graph"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "clone_graph"
+path = "exercises.rs"

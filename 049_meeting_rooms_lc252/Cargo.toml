@@ -1,0 +1,10 @@
+[package]
+name = "meeting_rooms"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "meeting_rooms"
+path = "exercises.rs"
+
+
+[dependencies]

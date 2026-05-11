@@ -1,0 +1,10 @@
+[package]
+name = "kth_largest_stream_lc703"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "kth_largest_stream_lc703"
+path = "exercises.rs"
+
+
+[dependencies]

@@ -1,0 +1,10 @@
+[package]
+name = "basic_calculator_lc224"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "basic_calculator_lc224"
+path = "exercises.rs"
+
+
+[dependencies]

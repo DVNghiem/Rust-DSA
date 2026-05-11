@@ -1,0 +1,10 @@
+[package]
+name = "alien_dictionary"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "alien_dictionary"
+path = "exercises.rs"
+
+
+[dependencies]

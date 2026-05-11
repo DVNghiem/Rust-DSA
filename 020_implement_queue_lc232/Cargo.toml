@@ -1,0 +1,8 @@
+[package]
+name = "implement_queue_lc232"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "implement_queue_lc232"
+path = "exercises.rs"
+

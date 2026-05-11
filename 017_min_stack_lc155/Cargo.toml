@@ -1,0 +1,8 @@
+[package]
+name = "min_stack_lc155"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "min_stack_lc155"
+path = "exercises.rs"
+

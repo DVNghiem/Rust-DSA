@@ -1,0 +1,10 @@
+[package]
+name = "lrucache_lc146"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "lrucache_lc146"
+path = "exercises.rs"
+
+
+[dependencies]

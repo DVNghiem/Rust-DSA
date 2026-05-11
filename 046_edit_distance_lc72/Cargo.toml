@@ -1,0 +1,10 @@
+[package]
+name = "edit_distance"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "edit_distance"
+path = "exercises.rs"
+
+
+[dependencies]

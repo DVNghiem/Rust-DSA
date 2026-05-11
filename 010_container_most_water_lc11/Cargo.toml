@@ -1,0 +1,8 @@
+[package]
+name = "container_most_water_lc11"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "container_most_water_lc11"
+path = "exercises.rs"
+

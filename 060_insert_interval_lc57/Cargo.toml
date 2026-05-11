@@ -1,0 +1,10 @@
+[package]
+name = "insert_interval_lc57"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "insert_interval_lc57"
+path = "exercises.rs"
+
+
+[dependencies]

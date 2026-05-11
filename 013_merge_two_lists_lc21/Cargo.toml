@@ -1,0 +1,8 @@
+[package]
+name = "merge_two_lists_lc21"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "merge_two_lists_lc21"
+path = "exercises.rs"
+

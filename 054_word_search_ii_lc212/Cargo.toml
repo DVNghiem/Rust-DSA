@@ -1,0 +1,10 @@
+[package]
+name = "word_search_ii_lc212"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "word_search_ii_lc212"
+path = "exercises.rs"
+
+
+[dependencies]

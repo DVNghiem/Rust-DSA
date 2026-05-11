@@ -1,0 +1,10 @@
+[package]
+name = "maximum_subarray"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "maximum_subarray"
+path = "exercises.rs"
+
+
+[dependencies]

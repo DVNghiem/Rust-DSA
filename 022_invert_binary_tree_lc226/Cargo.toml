@@ -1,0 +1,8 @@
+[package]
+name = "invert_binary_tree_lc226"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "invert_binary_tree_lc226"
+path = "exercises.rs"
+

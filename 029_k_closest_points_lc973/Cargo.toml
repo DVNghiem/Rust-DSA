@@ -1,0 +1,10 @@
+[package]
+name = "k_closest_points"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "k_closest_points"
+path = "exercises.rs"
+
+
+[dependencies]

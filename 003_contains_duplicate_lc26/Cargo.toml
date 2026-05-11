@@ -1,0 +1,8 @@
+[package]
+name = "contains_duplicate_lc26"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "contains_duplicate_lc26"
+path = "exercises.rs"
+

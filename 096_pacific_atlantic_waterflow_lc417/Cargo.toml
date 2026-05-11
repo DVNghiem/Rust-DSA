@@ -1,0 +1,8 @@
+[package]
+name = "pacific_atlantic_waterflow"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "pacific_atlantic_waterflow"
+path = "exercises.rs"

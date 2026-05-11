@@ -1,0 +1,10 @@
+[package]
+name = "trapping_rain_water_lc42"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "trapping_rain_water_lc42"
+path = "exercises.rs"
+
+
+[dependencies]

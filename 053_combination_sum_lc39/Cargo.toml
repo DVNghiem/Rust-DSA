@@ -1,0 +1,10 @@
+[package]
+name = "combination_sum_lc39"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "combination_sum_lc39"
+path = "exercises.rs"
+
+
+[dependencies]

@@ -1,0 +1,10 @@
+[package]
+name = "coin_change"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "coin_change"
+path = "exercises.rs"
+
+
+[dependencies]

@@ -1,0 +1,10 @@
+[package]
+name = "jump_game"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "jump_game"
+path = "exercises.rs"
+
+
+[dependencies]

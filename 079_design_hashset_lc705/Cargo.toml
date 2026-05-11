@@ -1,0 +1,10 @@
+[package]
+name = "design_hashset"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "design_hashset"
+path = "exercises.rs"
+
+
+[dependencies]
